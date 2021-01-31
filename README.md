@@ -1,8 +1,8 @@
 <h1 align="center">PlatziConf Hawai</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/edwintrumpet/codeblog?logo=github" alt="commit activity badge">
-  <img src="https://img.shields.io/github/last-commit/edwintrumpet/codeblog?logo=github" alt="last commit badge">
+  <img src="https://img.shields.io/github/commit-activity/m/edwintrumpet/learning-bootstrap-platzi-conf?logo=github" alt="commit activity badge">
+  <img src="https://img.shields.io/github/last-commit/edwintrumpet/learning-bootstrap-platzi-conf?logo=github" alt="last commit badge">
 </p>
 
 <p align="center">
@@ -11,17 +11,20 @@
 
 Platzi Bootstrap course project, PlatziConf Hawai.
 
+Website  
+[https://edwintrumpet.github.io/learning-bootstrap-platzi-conf/](https://edwintrumpet.github.io/learning-bootstrap-platzi-conf/)
+
 ## Development branches
 
 - master: Final result
 - grid: Learning Bootstrap grid
 - challenges: Grid challenges
 
-Desktop view
+## Desktop view
 
 ![desktop view](./assets/screens/desktop.png)
 
-Mobile view
+## Mobile view
 
 ![desktop view](./assets/screens/mobile.png)
 
