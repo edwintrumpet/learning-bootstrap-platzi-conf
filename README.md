@@ -16,7 +16,7 @@ Website
 
 ## Development branches
 
-- master: Final result
+- main: Final result
 - grid: Learning Bootstrap grid
 - challenges: Grid challenges
 
